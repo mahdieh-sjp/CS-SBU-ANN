@@ -1,6 +1,7 @@
 # Artificial Neural Networks
 ### 1st Assignment - Shahid Beheshti University - Bachelor’s Program
 October 29, 2022<br/> 
+Mahdieh Sajedi Pour, Nima Taheri
 
 ## Exercise 1
 Describe in detail how L1 regularization differs from L2 regularization, and which one do you
@@ -20,5 +21,3 @@ the test set.
 ∙ Use early stopping criteria.<br/> 
 ∙ Become familiar with batch normalization and report its effects.<br/> 
 ∙ The model should be tested for L1 and L2 regularization.<br/> 
-∙ Add a regularization term for the weight parameter using the following sample code:<br/> 
-![alt text](https://github.com/mahdieh-sjp/CS-SBU-ANN/blob/main/first-assignment/sample.png)
