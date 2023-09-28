@@ -1,6 +1,6 @@
 # Artificial Neural Networks
-### 1st Assignment - Shahid Beheshti University - Bachelor’s Program
-October 29, 2022<br/> 
+### 2nd Assignment - Shahid Beheshti University - Bachelor’s Program
+November 11, 2022<br/> 
 Nima Taheri, Mahdieh Sajedi Pour<br/>
 
 ## Exercise 1
